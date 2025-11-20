@@ -1,4 +1,5 @@
 MADE BY:
 namithamekala1@gmail.com
+
 MENTOR:
-springboardmentor056
+springboardmentor056@gmail.com
